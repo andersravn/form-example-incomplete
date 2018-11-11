@@ -1,0 +1,25 @@
+.row {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.row__label {
+  margin-bottom: 4px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #0074d9;
+  text-transform: uppercase;
+}
+
+.row__label--valid {
+  color: #2ecc40;
+}
+
+.row__label--invalid {
+  color: #ff4136;
+}
+
+.row__content {
+  width: 100%;
+}

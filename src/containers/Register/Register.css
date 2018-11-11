@@ -1,0 +1,14 @@
+.register {
+  background-color: #ffffff;
+  margin: 20px;
+  padding: 24px;
+  width: 100%;
+  max-width: 300px;
+  border-radius: 8px;
+}
+
+.register__heading {
+  margin: 20px;
+  font-size: 32px;
+  font-weight: 300;
+}
